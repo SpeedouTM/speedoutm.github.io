@@ -34,3 +34,7 @@
 #app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .cozyMessage-3V1Y8y {
     padding: 0px 0px 0px 0px;
 }
+#app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .cozyMessage-3V1Y8y.mentioned-xhSam7::after {
+    background: #006aff2d;
+    border-radius: 5px;
+}
