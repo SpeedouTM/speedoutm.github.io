@@ -34,9 +34,6 @@
 #app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .cozyMessage-3V1Y8y {
     padding: 0px 0px 0px 0px;
 }
-.localBot-GrCgVt:before, .mentioned-xhSam7:before {
-    background: #006aff;
-}
 #app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .cozyMessage-3V1Y8y.mentioned-xhSam7:before {
     background: #006aff;
     border-radius: 5px;
