@@ -40,7 +40,7 @@
 }
 #app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .cozyMessage-3V1Y8y.mentioned-xhSam7::after {
     content: "";
-    background: #006aff2d;
+    background: rgb(0, 106, 255, 0.5);
     display: block;
     position: absolute;
     width: 100%;
